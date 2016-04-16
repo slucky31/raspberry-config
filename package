@@ -1,0 +1,2 @@
+sudo apt-get install psmisc
+sudo apt-get install screen
